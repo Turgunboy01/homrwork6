@@ -45,7 +45,7 @@ const Pick = ({
               {month ? (
                 <p className=" font-semibold text-[#5042cc]">+$1/mo</p>
               ) : (
-                <p className=" font-semibold text-[#5042cc]">+10/mo</p>
+                <p className=" font-semibold text-[#5042cc]">+$10/yr</p>
               )}
             </div>
           </div>
@@ -70,7 +70,7 @@ const Pick = ({
               {month ? (
                 <p className=" font-semibold text-[#5042cc]">+$2/mo</p>
               ) : (
-                <p className=" font-semibold text-[#5042cc]">+20/mo</p>
+                <p className=" font-semibold text-[#5042cc]">+$20/yr</p>
               )}
             </div>
           </div>
@@ -95,7 +95,7 @@ const Pick = ({
               {month ? (
                 <p className=" font-semibold text-[#5042cc]">+$2/mo</p>
               ) : (
-                <p className=" font-semibold text-[#5042cc]">+20/mo</p>
+                <p className=" font-semibold text-[#5042cc]">+$20/yr</p>
               )}
             </div>
           </div>
